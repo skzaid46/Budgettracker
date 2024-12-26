@@ -41,18 +41,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB4h1-3yJCGltgJ5gVvqOvctA7BaUyL6Ls',
-    appId: '1:1044088621311:web:e27811ff87fc50dafea4ca',
+    apiKey: 'AIzaSyDrpWE88FMeHT5lznOG4RtlJf4-4cF5YGM',
+    appId: '1:1044088621311:web:6dc7b92c9f4b441bfea4ca',
     messagingSenderId: '1044088621311',
     projectId: 'budget-tracker-2cfd4',
     authDomain: 'budget-tracker-2cfd4.firebaseapp.com',
     storageBucket: 'budget-tracker-2cfd4.firebasestorage.app',
-    measurementId: 'G-R5SQF7V9HH',
+    measurementId: 'G-BJCXFVP4ZF',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCaIk441Qi3EXVGIGKCsiWo4O2kIAo3DTA',
-    appId: '1:1044088621311:android:4b97e1ce6a818e0dfea4ca',
+    appId: '1:1044088621311:android:b53bb0b294fd97ebfea4ca',
     messagingSenderId: '1044088621311',
     projectId: 'budget-tracker-2cfd4',
     storageBucket: 'budget-tracker-2cfd4.firebasestorage.app',
@@ -60,29 +60,30 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyABvNd5QsTvZoVk3aDKlkJfZ_MCzT_pz7M',
-    appId: '1:1044088621311:ios:5ec436475c6ed5e0fea4ca',
+    appId: '1:1044088621311:ios:990675c054c83762fea4ca',
     messagingSenderId: '1044088621311',
     projectId: 'budget-tracker-2cfd4',
     storageBucket: 'budget-tracker-2cfd4.firebasestorage.app',
-    iosBundleId: 'com.example.budgettracker',
+    iosBundleId: 'com.budgetTracker.app',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyABvNd5QsTvZoVk3aDKlkJfZ_MCzT_pz7M',
-    appId: '1:1044088621311:ios:5ec436475c6ed5e0fea4ca',
+    appId: '1:1044088621311:ios:990675c054c83762fea4ca',
     messagingSenderId: '1044088621311',
     projectId: 'budget-tracker-2cfd4',
     storageBucket: 'budget-tracker-2cfd4.firebasestorage.app',
-    iosBundleId: 'com.example.budgettracker',
+    iosBundleId: 'com.budgetTracker.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB4h1-3yJCGltgJ5gVvqOvctA7BaUyL6Ls',
-    appId: '1:1044088621311:web:cc5bdc66c283c561fea4ca',
+    apiKey: 'AIzaSyDrpWE88FMeHT5lznOG4RtlJf4-4cF5YGM',
+    appId: '1:1044088621311:web:da217b3bcc304bf9fea4ca',
     messagingSenderId: '1044088621311',
     projectId: 'budget-tracker-2cfd4',
     authDomain: 'budget-tracker-2cfd4.firebaseapp.com',
     storageBucket: 'budget-tracker-2cfd4.firebasestorage.app',
-    measurementId: 'G-XN0EQSVXF3',
+    measurementId: 'G-42TCBZ1KTH',
   );
+
 }

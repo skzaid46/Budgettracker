@@ -47,7 +47,7 @@ class _TransactionScreenState extends State<TransactionScreen> {
             )
           : Container(), // Show empty container if ID doesn't match
       appBar: AppBar(
-        title: Text("Expansive"),
+        title: Text("Expenses"),
       ),
       body: Column(
         children: [

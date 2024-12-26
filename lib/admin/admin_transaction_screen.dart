@@ -34,7 +34,7 @@ class _AdminTransactionScreenState extends State<AdminTransactionScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Expansive"),
+        title: Text("Expenses"),
       ),
       body: Column(
         children: [

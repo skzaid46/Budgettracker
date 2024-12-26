@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1044088621311:android:4b97e1ce6a818e0dfea4ca",
+        "mobilesdk_app_id": "1:1044088621311:android:b53bb0b294fd97ebfea4ca",
         "android_client_info": {
-          "package_name": "com.example.budgettracker"
+          "package_name": "com.budgetTracker.app"
         }
       },
       "oauth_client": [],
